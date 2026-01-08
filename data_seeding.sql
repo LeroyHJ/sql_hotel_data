@@ -1,7 +1,7 @@
 INSERT INTO Rooms (room_number, room_type, standard_guest, max_guest, Base_price, Extra_person_price) VALUES 
 (201, "Double", 2, 4, 199.99, 10),
-(201, "Double", 2, 4, 199.99, 10),
-(201, "Double", 2, 4, 199.99, 10),
+(202, "Double", 2, 4, 199.99, 10),
+(203, "Double", 2, 4, 199.99, 10),
 (201, "Double", 2, 4, 199.99, 10),
 (201, "Double", 2, 4, 199.99, 10),
 (201, "Double", 2, 4, 199.99, 10),
